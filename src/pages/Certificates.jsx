@@ -74,8 +74,8 @@ const CERTS = {
       title: "Generative AI workshop",
       org: "Techgyan Technologies at Indian Institute of Technology kanpur",
       date: "2025",
-      img: "/certs/techgyan.png",
-      link: "/certs/techgyan.png",
+      img: "/certs/iit.png",
+      link: "/certs/iit.png",
     },
     {
       title: " GDG Kanpur DevFest",
